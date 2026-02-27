@@ -1,0 +1,60 @@
+{
+  "name": "Comet Search Redirect",
+  "short_description": "Smart search redirection for Comet browser - Single words go to Google, multi-word queries stay on Perplexity AI",
+  "category": "Productivity",
+  "language": "English",
+  "website": "https://github.com/fpoujol/comet-search-modifier",
+  "support_url": "https://github.com/fpoujol/comet-search-modifier/issues",
+  "privacy_policy_url": "https://github.com/fpoujol/comet-search-modifier/blob/main/PRIVACY.md",
+
+  "keywords": [
+    "search",
+    "redirect",
+    "productivity",
+    "comet browser",
+    "perplexity",
+    "google",
+    "smart routing",
+    "AI search"
+  ],
+
+  "permissions_justification": {
+    "tabs": "Required to redirect search tabs from Perplexity to Google",
+    "webNavigation": "Needed to detect navigation on Perplexity.ai and trigger smart redirects",
+    "storage": "Used to save user preferences and track redirect statistics"
+  },
+
+  "screenshots": [
+    {
+      "filename": "screenshot-1-hero.png",
+      "description": "Smart Search Routing - Demonstrates how single words go to Google while multi-word queries stay on Perplexity"
+    },
+    {
+      "filename": "screenshot-2-popup.png",
+      "description": "Beautiful Control Panel - Shows the extension popup interface with statistics and toggle controls"
+    },
+    {
+      "filename": "screenshot-3-examples.png",
+      "description": "Real-World Examples - Grid showing specific search examples and their routing destinations"
+    },
+    {
+      "filename": "screenshot-4-debug.png",
+      "description": "Power User Features - Advanced debugging capabilities and monitoring tools"
+    },
+    {
+      "filename": "screenshot-5-comparison.png",
+      "description": "Time Savings - Before/after comparison showing productivity gains"
+    }
+  ],
+
+  "promotional_tile": {
+    "small": "440x280",
+    "description": "Promotional image showing the extension logo and key benefits"
+  },
+
+  "version_info": {
+    "current_version": "1.0.0",
+    "minimum_chrome_version": "88",
+    "release_notes": "Initial release with smart search redirection, statistics tracking, and debug mode"
+  }
+}

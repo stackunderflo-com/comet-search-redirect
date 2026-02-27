@@ -1,0 +1,32 @@
+🔍 Comet Search Redirect - Smart Search Intelligence
+
+Enhance your Comet browser experience with intelligent search redirection that understands your intent.
+
+KEY FEATURES:
+✓ Automatic single-word redirects to Google (e.g., "weather", "wikipedia", "amazon")
+✓ Multi-word queries stay on Perplexity AI for complex answers
+✓ Works seamlessly with Perplexity's SPA navigation
+✓ Zero configuration required - works out of the box
+✓ Real-time statistics tracking
+✓ Debug mode for power users
+
+WHY USE THIS EXTENSION?
+• Get instant Google results for simple searches
+• Keep Perplexity AI's power for complex questions
+• Save time with automatic smart routing
+• No manual switching between search engines
+
+PERFECT FOR:
+- Quick definition lookups → Google
+- Company/website searches → Google
+- Complex questions → Perplexity AI
+- Research queries → Perplexity AI
+
+PRIVACY FOCUSED:
+• No data collection
+• All processing happens locally
+• No external servers
+
+Simply install and let the extension intelligently route your searches to the right place!
+
+Built with ❤️ for the Comet community
